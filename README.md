@@ -2,6 +2,8 @@
 
 ## Project info
 
+AI bot link (which we going to deploy in website ) = https://cdn.botpress.cloud/webchat/v2.3/shareable.html?configUrl=https://files.bpcontent.cloud/2025/04/12/12/20250412122734-Z92OV32U.json
+
 Depolyed link = https://lawandconsultancy.netlify.app/
 
 ## How can I edit this code?
