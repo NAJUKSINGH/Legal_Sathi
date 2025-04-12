@@ -2,6 +2,8 @@
 
 ## Project info
 
+Depolyed link = https://lawandconsultancy.netlify.app/
+
 ## How can I edit this code?
 
 There are several ways of editing your application.
